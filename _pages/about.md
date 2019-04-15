@@ -10,7 +10,6 @@ comments: true
 
 <p>This space left blank to write about.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 
 
 <h4>Questions?</h4>
