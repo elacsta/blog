@@ -15,7 +15,7 @@ Every now and then one film comes along that changes the path of the film indusr
 
 ### Lucifer is not that.
 
-![Lucifer](assets/images/lucifer.jpg)
+![Lucifer](/assets/images/lucifer.jpg)
 
 Prithviraj is a big fan of MohanLal and decides to make a film on him and evryone else must watch and praise it. That is the logic of what has been shown on screen.
 
