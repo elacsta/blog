@@ -1,7 +1,7 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
 .mainheading {
     padding: 1rem 0rem;
@@ -593,23 +593,23 @@ ul.tags li a:hover {
 }
 
 .form-control::-webkit-input-placeholder {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 255);
 }
 
 .form-control:-moz-placeholder {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 255);
 }
 
 .form-control::-moz-placeholder {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 255);
 }
 
 .form-control:-ms-input-placeholder {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 255);
 }
 
 .form-control::-ms-input-placeholder {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 255);
 }
 
 .authorpage h1 {
