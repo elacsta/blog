@@ -4,7 +4,7 @@ title: "ELACSTA"
 description: "The official blog of ELectronics And Communication STudents Association."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: /blog
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: ''
@@ -23,7 +23,7 @@ authors:
     description: "Al-Main of S6ECA. എല്ലാവരുടേം കണ്ണിലുണ്ണി പൊന്നോമന."
   john:
     name: John
-    display_name: John    
+    display_name: John
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
@@ -38,7 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -46,11 +46,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 
