@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lucifer Review"
+title:  "Movie Review"
 author: abhishek
 categories: [ movie, review ]
 tags: [red, yellow]
@@ -8,11 +8,11 @@ image: assets/images/11.jpg
 description: "My review of Lucifer movie. Acting, plot and something else in this short description."
 featured: true
 hidden: true
-rating: .5
+rating: 2
 ---
 
 Every now and then one film comes along that changes the path of the film indusry and sets a new standard for other to follow.
-
+I just love **bold text**.
 ### Lucifer is not that.
 
 ![Lucifer]({{ site.baseurl }}/assets/images/lucifer.jpg)
